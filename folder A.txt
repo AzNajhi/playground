@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 test B
+=======
+test A
+>>>>>>> origin/main
